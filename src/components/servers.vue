@@ -21,7 +21,7 @@
       ></nav_button>
 
       <nav_button 
-        class="bg-[url(./assets/vue.svg)] bg-no-repeat bg-[length:65%] bg-center"
+        class="bg-[url(./assets/Discord.svg)] bg-no-repeat bg-[length:65%] bg-center"
       ></nav_button>
 
 
